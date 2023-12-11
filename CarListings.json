@@ -1,0 +1,23 @@
+[
+ {
+   "price": 6300,
+   "mileage": 274117,
+   "color": "blue",
+   "vin": "jtezu11f88k007763",
+   "condition": "Grade 3"
+ },
+ {
+   "price": 2899,
+   "mileage": 190552,
+   "color": "silver",
+   "vin": "2fmdk3gc4bbb02217",
+   "condition": "Grade 2"
+ },
+ {
+   "price": 5350,
+   "mileage": 39590,
+   "color": "black",
+   "vin": "3c4pdcgg5jt346413",
+   "condition": "Grade 4"
+ }
+]

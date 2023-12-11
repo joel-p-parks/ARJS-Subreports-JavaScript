@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturerId": 962,
+    "manufacturerName": "Toyota Motor North America",
+    "address": "6565 Headquarters Drive",
+    "city": "Washington",
+    "state": "Texas",
+    "postalCode": "75024",
+    "country": "United States",
+    "email": "contact@toyota.com",
+    "phone": "757-254-2810",
+    "fax": "1-408-999 7777"
+  },
+  {
+    "manufacturerId": 977,
+    "manufacturerName": "Ford Motor Company",
+    "address": "1 American Road",
+    "city": "Dearborn",
+    "state": "Michigan",
+    "postalCode": "48126",
+    "country": "United States",
+    "email": "contact@ford.com",
+    "phone": "432-994-6266",
+    "fax": "1-408-999 8888"
+  },
+  {
+    "manufacturerId": 1002,
+    "manufacturerName": "Acura North America",
+    "address": "1919 Torrance Boulevard",
+    "city": "Torrence",
+    "state": "California",
+    "postalCode": "90501",
+    "country": "United States",
+    "email": "contact@acura.com",
+    "phone": "526-386-2770",
+    "fax": "1-408-999 4444"
+  }
+]

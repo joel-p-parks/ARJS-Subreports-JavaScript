@@ -1,0 +1,29 @@
+[
+  {
+    "bodyClass": "Wagon",
+    "make": "TOYOTA",
+    "model": "FJ Cruiser",
+    "modelYear": "2008",
+    "engineModel": "1GR-FE",
+    "vin": "jtezu11f88k007763",
+    "manufacturerId": "962"
+  },
+  {
+    "bodyClass": "Sport Utility Vehicle (SUV)",
+    "make": "FORD",
+    "model": "Edge",
+    "modelYear": "2011",
+    "engineModel": "EcoBoost",
+    "vin": "2fmdk3gc4bbb02217",
+    "manufacturerId": "977"
+  },
+  {
+    "bodyClass": "Sport Utility Vehicle (SUV)",
+    "make": "ACURA",
+    "model": "MDX",
+    "modelYear": "2012",
+    "engineModel": "VTEC",
+    "vin": "3c4pdcgg5jt346413",
+    "manufacturerId": "1002"
+  }
+]
